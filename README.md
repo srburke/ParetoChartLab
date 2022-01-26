@@ -8,3 +8,14 @@ Quality Control
 2. Quality Assurance: (Standards, Procedures & Policies)
 3. Quality Control
 4. Quality Important(?): (Watch some metrics #calls & region)
+
+
+7 Basic Quality Control Tools
+------------------------------
+1. Cause and Effect Diagram
+2. Flowcharts
+3. Checksheets
+4. Pareto Diagrams
+5. Scatter Diagrams
+6. Stratification
+7. 
